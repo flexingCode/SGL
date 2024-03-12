@@ -1231,7 +1231,7 @@
 
 .experience h3 {
     color: var(--primary-color);
-    color: var(--heading-color);
+    color: var(--white-color);
     font-size: 52px;
     font-weight: 700;
     line-height: 1;
@@ -1240,7 +1240,7 @@
 .experience h3 span {
     font-family: var(--body-font);
     color: var(--grey-color);
-    color: var(--heading-color);
+    color: var(--white-color);
     font-size: 14px;
     line-height: 20px;
     font-weight: 600;
